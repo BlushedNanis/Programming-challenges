@@ -15,3 +15,4 @@ This is a list of the exercises that I have already completed; for further detai
 1. The Famous "Fizz Buzz"
 2. Is it an Anagram?
 3. The Fibonacci sequence
+4. Is it a prime number?
