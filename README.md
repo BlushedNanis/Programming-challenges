@@ -16,3 +16,4 @@ This is a list of the exercises that I have already completed; for further detai
 2. Is it an Anagram?
 3. The Fibonacci sequence
 4. Is it a prime number?
+5. Area of a polygon
