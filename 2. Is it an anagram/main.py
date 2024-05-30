@@ -20,9 +20,15 @@ def is_anagram(word1:str, word2:str):
     return anagram
 
 
-print("Is it an anagram?\nIntroduce two words to check if they are anagrams.\n\n")
+print("Is it an anagram?\nIntroduce two words to check if they are anagram.\n\n")
 
 word1 = input("Type the first word: ").lower()
 word2 = input("Type the second word: ").lower()
 
-print("\nPlease provide alphabetic words (only letters)")
+if word1.isalpha() and word2.isalpha():
+    if is_anagram(word1, word2):
+        print("\nIs anagram! :D")
+    else:
+        print("\nIsn't anagram D:")
+else:
+    print("\nPlease provide alphabetic words (only letters)")
