@@ -16,8 +16,8 @@ while True:
         number = int(input("Introduce the number: "))
         
         if is_prime(number):
-            print("It's prime! :D")
+            print("It's prime! :D\n")
         else:
-            print("It isn't prime D:")
+            print("It isn't prime D:\n")
     except ValueError:
-        print("Please provide an integer number")
+        print("Please provide an integer number\n")
