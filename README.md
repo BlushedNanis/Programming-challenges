@@ -13,3 +13,4 @@ This is a list of the exercises that I have already completed; for further detai
 ### Exercises
 
 1. The Famous "Fizz Buzz"
+2. Is it an Anagram?
