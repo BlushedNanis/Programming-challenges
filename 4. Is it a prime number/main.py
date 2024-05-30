@@ -1,4 +1,12 @@
 def is_prime(number:int):
+    """Checks if the given number is prime.
+
+    Args:
+        number (int): Number to check if it's prime.
+
+    Returns:
+        bool: True if the number is prime; False if the number isn't prime.
+    """
     if number <= 1:
         return False
     if number == 2:
