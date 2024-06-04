@@ -18,3 +18,4 @@ This is a list of the exercises that I have already completed; for further detai
 4. Is it a prime number?
 5. Area of a polygon
 6. Aspect ratio of an image
+7. Reversing text
