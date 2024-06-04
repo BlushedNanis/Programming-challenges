@@ -2,7 +2,7 @@
 
 Hello there!
 
-As the name suggests, this repository includes 101 programming exercies that are taken from [Retos de Programación | by MoureDev (retosdeprogramacion.com)](https://retosdeprogramacion.com/). 
+As the name suggests, this repository includes 101 programming exercies that are taken from [Retos de Programación | by MoureDev (retosdeprogramacion.com)](https://retosdeprogramacion.com/).
 
 Feel free to use the code or examine the problems; all will be solved with Python and my own programming knowledge and reasoning.
 
@@ -17,3 +17,4 @@ This is a list of the exercises that I have already completed; for further detai
 3. The Fibonacci sequence
 4. Is it a prime number?
 5. Area of a polygon
+6. Aspect ratio of an image
